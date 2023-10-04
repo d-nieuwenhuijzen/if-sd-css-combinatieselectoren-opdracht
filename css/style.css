@@ -42,7 +42,8 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Selecteer alle headings, paragraven en article's
+/* Selecteer alle headings, paragraven en article's 
+en geef het 10px margin en padding.
 (zie pagina 220) */
 
 head, p, article {
@@ -60,7 +61,8 @@ css aan toe
 }
 
 
-/* selecteer alle a-elementen in de nav met de klasse links
+/* selecteer alle a-elementen in de nav met de klasse links en 
+geef het een donkerachtergrond kleur en een lichte tekstkleur. en een unieke lettertype.
 Gebruik hiervoor de combinatieselector: Algemene afstamming: spatie. (Zie pagina 220)
  */
 
